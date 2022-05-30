@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Dem0</title>
-  <icon>http://example.com/icon.png</icon>
+  <title>Dem0のblog</title>
+  <icon>https://3em0.github.io/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://3em0.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://3em0.github.io/"/>
   <updated>2022-05-30T04:12:33.407Z</updated>
-  <id>http://example.com/</id>
+  <id>https://3em0.github.io/</id>
   
   <author>
     <name>Dem0</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/05/30/hello-world/"/>
-    <id>http://example.com/2022/05/30/hello-world/</id>
+    <link href="https://3em0.github.io/2022/05/30/hello-world/"/>
+    <id>https://3em0.github.io/2022/05/30/hello-world/</id>
     <published>2022-05-30T04:12:33.407Z</published>
     <updated>2022-05-30T04:12:33.407Z</updated>
     
