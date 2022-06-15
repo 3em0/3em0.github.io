@@ -71,7 +71,7 @@
     <link href="https://dem0dem0.top/2022/06/10/FreeMarker%E5%88%9D%E6%8E%A2/"/>
     <id>https://dem0dem0.top/2022/06/10/FreeMarker%E5%88%9D%E6%8E%A2/</id>
     <published>2022-06-10T02:10:23.000Z</published>
-    <updated>2022-06-15T03:14:03.441Z</updated>
+    <updated>2022-06-15T03:14:45.439Z</updated>
     
     
       
@@ -163,6 +163,31 @@
     
     
     <category term="随笔" scheme="https://dem0dem0.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MRCTF-java部分</title>
+    <link href="https://dem0dem0.top/2022/05/30/mrctf2022java%E9%A2%98%E8%A7%A3/"/>
+    <id>https://dem0dem0.top/2022/05/30/mrctf2022java%E9%A2%98%E8%A7%A3/</id>
+    <published>2022-05-30T14:07:23.000Z</published>
+    <updated>2022-06-15T03:14:37.002Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;MRCTF-java部分&quot;&gt;&lt;a href=&quot;#MRCTF-java部分&quot; class=&quot;headerlink&quot; title=&quot;MRCTF-java部分&quot;&gt;&lt;/a&gt;MRCTF-java部分&lt;/h1&gt;&lt;h2 id=&quot;0x01-springcoffee&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="CTF复现" scheme="https://dem0dem0.top/categories/CTF%E5%A4%8D%E7%8E%B0/"/>
+    
+    
+    <category term="java安全, CTF" scheme="https://dem0dem0.top/tags/java%E5%AE%89%E5%85%A8-CTF/"/>
     
   </entry>
   
