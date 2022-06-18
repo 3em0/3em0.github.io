@@ -6,7 +6,7 @@
   <link href="https://dem0dem0.top/atom.xml" rel="self"/>
   
   <link href="https://dem0dem0.top/"/>
-  <updated>2022-06-15T02:38:44.497Z</updated>
+  <updated>2022-06-18T01:14:06.194Z</updated>
   <id>https://dem0dem0.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MapReduce三个入门案例</title>
+    <link href="https://dem0dem0.top/2022/06/18/MapReduce%E4%B8%89%E4%B8%AA%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B/"/>
+    <id>https://dem0dem0.top/2022/06/18/MapReduce%E4%B8%89%E4%B8%AA%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B/</id>
+    <published>2022-06-17T16:29:51.000Z</published>
+    <updated>2022-06-18T01:14:06.194Z</updated>
+    
+    
+    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    
+    
+    
+    <category term="大数据处理" scheme="https://dem0dem0.top/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/"/>
+    
+    
+    <category term="大数据处理" scheme="https://dem0dem0.top/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Hadoop环境配置</title>
@@ -121,7 +140,7 @@
     <link href="https://dem0dem0.top/2022/05/30/Dem0%E3%81%AEdiary/"/>
     <id>https://dem0dem0.top/2022/05/30/Dem0%E3%81%AEdiary/</id>
     <published>2022-05-30T14:07:23.000Z</published>
-    <updated>2022-06-14T16:13:33.559Z</updated>
+    <updated>2022-06-18T01:23:25.831Z</updated>
     
     
       
