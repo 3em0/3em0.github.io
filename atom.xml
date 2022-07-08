@@ -6,7 +6,7 @@
   <link href="https://dem0dem0.top/atom.xml" rel="self"/>
   
   <link href="https://dem0dem0.top/"/>
-  <updated>2022-06-22T01:18:04.492Z</updated>
+  <updated>2022-07-08T02:56:47.495Z</updated>
   <id>https://dem0dem0.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>XXE备忘录</title>
+    <link href="https://dem0dem0.top/2022/07/08/XXE%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    <id>https://dem0dem0.top/2022/07/08/XXE%E5%A4%87%E5%BF%98%E5%BD%95/</id>
+    <published>2022-07-08T02:54:17.000Z</published>
+    <updated>2022-07-08T02:56:47.495Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;XXE注入&quot;&gt;&lt;a href=&quot;#XXE注入&quot; class=&quot;headerlink&quot; title=&quot;XXE注入&quot;&gt;&lt;/a&gt;XXE注入&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="XXE" scheme="https://dem0dem0.top/tags/XXE/"/>
+    
+  </entry>
   
   <entry>
     <title>某ciscn分区两个题解</title>
