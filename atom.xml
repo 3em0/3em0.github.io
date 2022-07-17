@@ -6,7 +6,7 @@
   <link href="https://dem0dem0.top/atom.xml" rel="self"/>
   
   <link href="https://dem0dem0.top/"/>
-  <updated>2022-07-08T02:56:47.495Z</updated>
+  <updated>2022-07-17T16:12:27.256Z</updated>
   <id>https://dem0dem0.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JAVA内存马攻击篇</title>
+    <link href="https://dem0dem0.top/2022/07/18/JAVA%E5%86%85%E5%AD%98%E9%A9%AC%E6%94%BB%E5%87%BB%E7%AF%87/"/>
+    <id>https://dem0dem0.top/2022/07/18/JAVA%E5%86%85%E5%AD%98%E9%A9%AC%E6%94%BB%E5%87%BB%E7%AF%87/</id>
+    <published>2022-07-17T16:10:18.000Z</published>
+    <updated>2022-07-17T16:12:27.256Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;JAVA内存马&quot;&gt;&lt;a href=&quot;#JAVA内存马&quot; class=&quot;headerlink&quot; title=&quot;JAVA内存马&quot;&gt;&lt;/a&gt;JAVA内存马&lt;/h1&gt;&lt;h2 id=&quot;内存马的攻击面&quot;&gt;&lt;a href=&quot;#内存马的攻击面&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="java安全" scheme="https://dem0dem0.top/categories/java%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="JAVA安全, memshell" scheme="https://dem0dem0.top/tags/JAVA%E5%AE%89%E5%85%A8-memshell/"/>
+    
+  </entry>
   
   <entry>
     <title>XXE备忘录</title>
@@ -194,7 +219,7 @@
     <link href="https://dem0dem0.top/2022/05/30/Dem0%E3%81%AEdiary/"/>
     <id>https://dem0dem0.top/2022/05/30/Dem0%E3%81%AEdiary/</id>
     <published>2022-05-30T14:07:23.000Z</published>
-    <updated>2022-07-10T00:56:08.135Z</updated>
+    <updated>2022-07-11T00:10:59.415Z</updated>
     
     
       
